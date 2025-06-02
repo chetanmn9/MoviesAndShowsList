@@ -1,9 +1,7 @@
 //
 //  ShowListUITestsLaunchTests.swift
 //  ShowListUITests
-//
-//  Created by Chetan on 1/6/2025.
-//
+
 
 import XCTest
 
